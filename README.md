@@ -1,3 +1,3 @@
 # Exercism
 
-## This is a repo used to store Exercism's python exercises
+## This is a repo used to store Exercism's python exercises for future reference
